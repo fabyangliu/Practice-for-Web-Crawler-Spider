@@ -2,10 +2,10 @@
 ## 描述
   基于requests和xpath爬取医疗问答网站的相关信息，并且使用了fake-useragent伪装了请求头，最后结果保存至MongoDB数据库中。
 ## 软件环境
-  * python >= 3;\
-  * requests;\
-  * xpath;\
-  * fake-useragent;\
+  * python >= 3;
+  * requests;
+  * xpath;
+  * fake-useragent;
   * mongodb;
 ## 实战过程截图
   爬取过程中提示信息的显示
