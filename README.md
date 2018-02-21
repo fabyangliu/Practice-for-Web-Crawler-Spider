@@ -1,6 +1,6 @@
 # yang-spider
 email：fabyangliu@hotmail.com\
-csdn: http://blog.csdn.net/weixin_36711901
+csdn：http://blog.csdn.net/weixin_36711901
 ## 爬虫实战，内容主要包括
 * 医疗问答网站信息爬虫
 * （正在补充。。。）
