@@ -5,8 +5,11 @@
   python >= 3;
   
   requests;
+  
   xpath;
+  
   fake-useragent;
+  
   mongodb;
 ## 实战过程截图
   爬取过程中提示信息的显示
