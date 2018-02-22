@@ -1,6 +1,7 @@
 # 医疗问答信息爬虫
 ## 描述
-  基于requests和xpath爬取医疗问答网站的相关信息，并且使用了fake-useragent伪装了请求头，最后结果保存至MongoDB数据库中。
+    基于requests和xpath爬取医疗问答网站的问题简述和详情描述，并且使用了fake-useragent伪装了请求头，最后结果保存至MongoDB数据库中。\
+    详细过程是：从列表页中提取问题不完整描述的@href链接属性，然后进入详情页面爬取问题完整描述和详情描述。
 ## 软件环境
   * python >= 3;
   * requests;
