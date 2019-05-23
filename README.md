@@ -1,4 +1,4 @@
-# yang-spider
+# Practice for Web Crawler and Spider in Python
 email：fabyangliu@hotmail.com\
 csdn：http://blog.csdn.net/weixin_36711901
 ## 爬虫实战，内容主要包括
